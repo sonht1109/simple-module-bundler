@@ -1,4 +1,4 @@
-# module-bundler-clone
+# Simple module bundler
 
 ## Available scripts
 
